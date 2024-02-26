@@ -1,0 +1,21 @@
+
+------Base------
+
+https://medium.com/@kesanamravi/chat-app-django-react-native-expo-project-451e4fd1ff57
+( Chat App — Django, React Native Expo project ::: fetch api get )
+
+https://afdezl.github.io/post/authentication-react-native-django-1/
+(authentication-react-native-django-1 ::: MAIN for auth with Django)
+
+
+
+
+
+
+
+
+
+
+
+
+

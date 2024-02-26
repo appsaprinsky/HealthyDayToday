@@ -1,0 +1,259 @@
+
+------Start an app START------
+https://docs.expo.dev/
+https://docs.expo.dev/get-started/create-a-new-app/
+------Start an app END------
+
+------React Native Class START------
+https://stackoverflow.com/questions/60961065/unable-to-use-usestate-in-class-component-react-js
+------React Native Class END------
+
+------React Native Documentation START------
+https://reactnative.dev/docs/touchableopacity
+------React Native Documentation END------
+
+
+------EXPO Dashboards START------
+https://instamobile.io/react-native-tutorials/react-native-charts/
+https://www.npmjs.com/package/react-native-chart-kit
+
+https://blog.logrocket.com/using-react-native-chart-kit-visualize-data/
+https://github.com/indiespirit/react-native-chart-kit/issues/161
+https://stackoverflow.com/questions/64947702/import-y-label-in-barchart-at-react-native-chart-kit
+
+------EXPO Dashboards END------
+
+
+
+
+
+
+------EXPO examples complete inspirations START------
+https://reactnativeexample.com/tag/forms/
+https://reactnativeelements.com/docs/header
+https://www.codeinwp.com/blog/free-react-native-templates/
+
+https://www.bootdey.com/react-native-snippets/page:3
+https://www.npmjs.com/package/react-native-elements
+
+https://github.com/expo/examples
+https://github.com/robinhuy/react-native-expo-examples/tree/main/examples
+https://github.com/ReactNativeNews/React-Native-Apps
+------EXPO examples complete inspirations END------
+
+
+
+------EXPO styles START------
+https://stackoverflow.com/questions/34011508/full-width-button-w-flex-box-in-react-native
+(Button to take the full width!)
+
+https://reactnative.dev/docs/modal
+https://reactnative.dev/docs/dimensions
+
+------EXPO styles END------
+
+
+------Navigation Complete Tutorial START------
+https://reactnative.dev/docs/navigation
+https://blog.shahednasser.com/react-native-navigation-tutorial/
+https://www.kindacode.com/article/react-navigation-5-x-hiding-the-header-bar-on-a-specific-screen/
+https://reactnavigation.org/docs/hello-react-navigation/
+https://reactnavigation.org/docs/getting-started/
+
+https://stackoverflow.com/questions/62317412/react-native-stack-navigation-with-class-component
+(Navigation for class based view)
+------Navigation Complete Tutorial END------
+
+
+
+
+------Free Photo START------
+https://unsplash.com/photos/E0AHdsENmDg
+(Free photos to find)
+------Free Photo END------
+
+
+------React Native Elements START------
+https://reactnativeelements.com/
+https://reactnativeelements.com/docs
+https://www.npmjs.com/package/react-native-elements
+https://snack.expo.dev/@aboutreact/example-of-search-bar-in-react-native?session_id=snack-session-CxUjYtYnj
+https://reactnativeelements.com/docs/searchbar
+------React Native Elements END------
+
+
+------React Native Header title START------
+https://reactnavigation.org/docs/headers/
+(Header title configuration)
+------React Native Header title END------
+
+
+
+------React Native labels and forms START------
+https://reactnativeexample.com/a-simple-checkboxs-component-works-on-android-and-ios/
+https://www.npmjs.com/package/react-native-form-select-picker
+https://reactnativeexample.com/customized-select-picker-that-renders-the-same-on-ios-and-android/
+https://www.titanwolf.org/Network/q/cd316910-5afe-4f4c-a185-37df96a90e9e/y
+https://www.npmjs.com/package/react-native-picker-select
+https://stackoverflow.com/questions/46186561/submitting-a-form-in-react-native
+https://stackoverflow.com/questions/30662782/how-to-post-a-form-using-fetch-in-react-native
+https://blog.logrocket.com/build-better-forms-with-react-native-ui-components/
+https://www.npmjs.com/package/react-native-checkbox-form?activeTab=readme
+https://stackoverflow.com/questions/62557019/react-native-picker-select-how-to-auto-select-an-item-but-still-be-able-to-sele
+https://reactnativeexample.com/a-simple-react-native-date-input-component/
+https://reactnativeexample.com/react-native-library-to-validate-form-fields/
+https://stackoverflow.com/questions/34590369/formatting-a-date-string-in-react-native
+
+
+
+https://docs.expo.dev/versions/latest/sdk/date-time-picker/
+https://www.npmjs.com/package/react-native-date-picker
+
+------React Native labels and forms END------
+
+
+
+------React Native list START------
+https://www.bootdey.com/react-native-snippet/32/Contacts
+https://www.freecodecamp.org/news/how-to-build-a-real-time-todo-app-with-react-native-19a1ce15b0b3/
+https://dev.to/reenydavidson/building-a-to-do-list-with-react-native-and-styled-components-2148
+
+------React Native list END------
+
+
+
+
+------React Native await START------
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/await
+https://howtofix.io/save-a-single-string-in-react-native-ios-and-android-expo-app-id1889664
+------React Native await END------
+
+
+
+------React Native Profile START------
+https://www.bootdey.com/react-native-snippet/23/Profile-ui-example
+------React Native Profile END------
+
+
+------React Native Modal START------
+https://reactnative.dev/docs/modal
+------React Native Modal END------
+
+
+------React Native SearchBar START------
+https://snack.expo.dev/@aboutreact/example-of-search-bar-in-react-native?session_id=snack-session-CxUjYtYnj
+https://reactnativeelements.com/docs/searchbar
+https://stackoverflow.com/questions/45666762/search-filter-with-react-native-on-flatlist
+https://snack.expo.dev/embedded/@aboutreact/example-of-search-bar-in-react-native?iframeId=ewbug1wk1e&preview=true&platform=ios&theme=dark
+https://callstack.github.io/react-native-paper/searchbar.html
+https://reactnativeelements.com/docs/searchbar
+https://www.geeksforgeeks.org/how-to-add-searchbar-in-react-native/
+https://snack.expo.dev/embedded/@aboutreact/example-of-search-bar-in-react-native?iframeId=ewbug1wk1e&preview=true&platform=ios&theme=dark
+https://snack.expo.dev/@aboutreact/example-of-search-bar-in-react-native?session_id=snack-session-CxUjYtYnj
+https://stackoverflow.com/questions/59836958/how-to-make-my-search-bar-in-react-native-working
+
+------React Native SearchBar END------
+
+
+------React Native styled-components START------
+https://styled-components.com/docs/basics
+------React Native styled-components END------
+
+
+------React Native authentication START------
+https://github.com/youneshenniwrites/authentication
+https://reactnative.dev/docs/asyncstorage
+
+------React Native authentication END------
+
+
+------React Native TextInput START------
+https://stackoverflow.com/questions/32946793/react-native-textinput-that-only-accepts-numeric-characters
+------React Native TextInput END------
+
+
+------EXPO Fetch START------
+https://stackoverflow.com/questions/30662782/how-to-post-a-form-using-fetch-in-react-native
+https://stackoverflow.com/questions/42027802/passing-token-using-fetch-to-a-django-rest-api-in-react-native
+https://stackoverflow.com/questions/60221354/how-to-pass-basic-authentication-in-api-call-in-react-native-using-asynch-await
+https://www.codegrepper.com/code-examples/javascript/async+await+loading+react
+https://stackoverflow.com/questions/44718910/react-native-async-await-does-not-work
+https://stackoverflow.com/questions/61015492/read-from-asyncstorage-parse-array-convert-string-to-date-object
+https://reactnative.dev/docs/alert
+https://stackoverflow.com/questions/48785786/how-to-stop-entering-whitespace-in-textinput-react-native
+
+https://stackoverflow.com/questions/64906396/fetch-api-always-returns-u-0-v-0-w-null-x-null
+https://stackoverflow.com/questions/64906396/fetch-api-always-returns-u-0-v-0-w-null-x-null
+https://stackoverflow.com/questions/63672234/typeerror-undefined-is-not-an-object-evaluating-e-type-when-i-try-to-fetch
+https://stackoverflow.com/questions/51819020/react-native-fetch-token-and-then-get-to-user-details-using-fetch-api
+https://stackoverflow.com/questions/50814045/react-native-fetch-with-authentication/50815748
+https://www.tabnine.com/code/javascript/functions/react-native/fetch
+https://stackoverflow.com/questions/69294859/how-to-wait-for-all-the-functions-and-then-render-in-react-native
+
+https://alialhaddad.medium.com/fetching-data-in-react-native-d92fb6876973
+https://reactnative.dev/docs/network
+https://blog.logrocket.com/data-fetching-react-native/
+https://stackoverflow.com/questions/49725012/handling-response-status-using-fetch-in-react-js/49725163
+https://stackoverflow.com/questions/68447345/api-fetch-issue-unhandled-promise-rejection-syntaxerror-json-parse-error-une
+https://stackoverflow.com/questions/40284338/javascript-fetch-delete-and-put-requests
+https://stackoverflow.com/questions/50837479/json-parse-error-unrecognized-token-react-native
+https://stackoverflow.com/questions/68447345/api-fetch-issue-unhandled-promise-rejection-syntaxerror-json-parse-error-une
+https://stackoverflow.com/questions/52159376/why-do-i-get-error-attributeerror-response-object-has-no-attribute-get-in-p/52159470
+
+------EXPO Fetch END------
+
+
+
+
+
+
+------EXPO FlatList START------
+https://reactnative.dev/docs/flatlist
+https://reddit.fun/86496/how-to-fetch-complex-json-into-react-native-flatlist
+https://stackoverflow.com/questions/58388642/remove-item-from-flatlist-in-react-native
+https://stackoverflow.com/questions/53855424/how-to-remove-a-item-index-from-a-flatlist-in-react-native/53856067
+https://reactnativecode.com/search-bar-filter-on-flatlist-json-data/
+
+https://aboutreact.com/react-native-search-bar-filter-on-listview/
+
+------EXPO FlatList END------
+
+
+
+------EXPO ActivityIndicator START------
+https://reactnative.dev/docs/activityindicator#animating
+------EXPO ActivityIndicator END------
+
+
+
+------EXPO async-storage START------
+https://reactnative.dev/docs/security
+https://stackoverflow.com/questions/44265919/safe-to-store-access-token-inside-asyncstorage
+https://www.mindbowser.com/asyncstorage-in-react-native/
+
+https://stackoverflow.com/questions/61234149/react-native-asyncstorage-get-token-problem
+https://stackoverflow.com/questions/39148714/is-react-natives-async-storage-secure
+https://www.bigbinary.com/blog/handling-authentication-state-in-react-native
+https://react-native-async-storage.github.io/async-storage/docs/install/
+------EXPO async-storage END------
+
+
+------EXPO others START------
+https://masteringjs.io/tutorials/fundamentals/date-tostring-format-yyyy-mm-dd
+https://docs.expo.dev/ui-programming/react-native-styling-buttons/
+https://stackoverflow.com/questions/61192045/warning-failed-prop-type-invalid-prop-value-of-type-number-supplied-to-te
+https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native
+https://reactnative.dev/docs/checkbox
+https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
+
+------EXPO others END------
+
+
+
+
+
+
+
+
+
+
